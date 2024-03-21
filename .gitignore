@@ -1,0 +1,6 @@
+636*
+image/*/*
+proposal/*
+.DS_Store
+data.csv
+.ipynb_*/*
